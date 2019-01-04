@@ -1,6 +1,9 @@
 My participation in #100DaysOfCoding challange as a new year's resolution
 
 ## 100DaysOfCoding
+### [Day 4](https://medium.com/@mageofit/100daysofcoding-day-4-find-max-product-of-adjacent-elements-in-an-array-using-java-be49bc2344c5)
+Wrote a solution for [finding maximum product of adjacent elements in an array using Java](./java/src/main/java/AdjacentElementsProduct.java). It was easy to do it using `for` loop, it will be interesting to rewrite my solution using streams from Java 8
+
 ### [Day 3](https://medium.com/@mageofit/100daysofcoding-day-3-check-for-palindrome-in-java-e1c496486427)
 Wrote [solution for checking if a String is a Palindrome in Java](./java/src/main/java/CheckPalindrome.java).
 
