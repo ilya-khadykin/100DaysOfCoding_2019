@@ -1,6 +1,15 @@
 My participation in #100DaysOfCoding challange as a new year's resolution
 
 ## 100DaysOfCoding
+### [Day 5](https://medium.com/@mageofit/100daysofcoding-day-5-computing-an-area-of-a-polygon-using-java-cab152870157)
+Wrote a [solution for computing an area of a polygon](./java/src/main/java/ShapeArea.java). It wasn’t that hard to figure it out, but it required some drawings on paper to come up with the correct solution.
+
+I’ve faced `StackOverflowError` for my first solution that used recursion. It was disappointing but instructive.
+
+Outcomes:
+* remembered that recursion has its pitfalls,
+* made sure once again that drawing on paper helps a lot and reduces an actual time spent on coding.
+
 ### [Day 4](https://medium.com/@mageofit/100daysofcoding-day-4-find-max-product-of-adjacent-elements-in-an-array-using-java-be49bc2344c5)
 Wrote a solution for [finding maximum product of adjacent elements in an array using Java](./java/src/main/java/AdjacentElementsProduct.java). It was easy to do it using `for` loop, it will be interesting to rewrite my solution using streams from Java 8
 
